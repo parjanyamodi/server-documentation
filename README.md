@@ -244,6 +244,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     sudo apt update
     sudo apt install openjdk-11-jre
     java -version
+    ```
     2. Visit [http://serverip:8080/](http://serverip:8080/).
-    
+
 
