@@ -186,8 +186,8 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     sudo bash /tmp/nodesource_setup.sh
     sudo apt install nodejs
     ```
-    Refer to the [NodeSource documentation](https://github.com/nodesource/distributions/blob/master/README.md) for more information on the available versions.
-    You can check the installed version using this command
+    *Note:- Refer to the [NodeSource documentation](https://github.com/nodesource/distributions/blob/master/README.md) for more information on the available versions.*
+    3. You can check the installed version using this command
     ```
     node -v
     ```
