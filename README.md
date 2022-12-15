@@ -211,7 +211,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     sudo systemctl status nginx
     sudo vi /etc/nginx/sites-enabled/yourdomain.com
     ```
-    Use following tool to get a template for `nginx` configurationg file [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx). 
+    <sup>_Use following tool to get a template for `nginx` configurationg file [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)._</sup> 
     ```
     server {
         listen 80;
