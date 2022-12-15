@@ -158,3 +158,21 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
         * Module Resources
     - Module 6: Course Wrap-Up
         * Course Summary
+
+# Production Server Set-up on AWS
++ ## Setting up an AWS account
+    1. Create an AWS Account by visiting the link [Click here](https://aws.amazon.com/account/sign-up).
+    2. Go to the menu and select ec2.
+    ![Alt text](./images/aws-account/1.png)
+    3. Deploy a new ec2 instance and apply use-case-specific configuration in the portal.
+    ![Alt text](./images/aws-account/2.png)
+    4. Configure the network, security group, storage and server credentails.
+    5. Click on the `Launch Instance button in `orange` color in order to launch the instance with required configuration.
+    6. Go to the list of instances available in the AWS account and select the particular instance that you want to connect to.
+    ![Alt text](./images/aws-account/3.png)
+    7. Click on the connect button at the top of the instance details.
+    ![Alt text](./images/aws-account/4.png)
+    8. Copy the ssh command displayed and use it in the terminal or any ssh client software.
+    ![Alt text](./images/aws-account/5.png)
+    9. Once connected to the server the terminal may look something like this.
+    ![Alt text](./images/aws-account/6.png)
