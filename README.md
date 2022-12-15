@@ -224,6 +224,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     }
     ```
     Above mentioned should be the format of the `nginx` configuration. More attributes maybe added.
+    
     Test the configuration using following commands.
     ```
     sudo nginx -t
