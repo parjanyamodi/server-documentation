@@ -16,7 +16,6 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 4. [Production Server Set-up on AWS]()
     - [Setting up an AWS account]()
     - [Setting up an ec2 Instance]()
-    - [Setting up a security group]()
     - [Deploying a nodeJS application]()
     - [Using Nginx for reverse proxy]()
 5. [Using DevOps tools in a production environment]()
@@ -174,5 +173,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ![Alt text](./images/aws-account/4.png)
     8. Copy the ssh command displayed and use it in the terminal or any ssh client software.
     ![Alt text](./images/aws-account/5.png)
+    The .pem certificate was regenerated during the configuration of the instance.
     9. Once connected to the server the terminal may look something like this.
     ![Alt text](./images/aws-account/6.png)
++ ## Deploying `nodeJS` application
