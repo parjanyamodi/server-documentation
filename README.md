@@ -44,33 +44,33 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 ## Course Outline
 
-    - Module 1: Course Overview
-        Course Overview
-    - Module 2: Introduction to AWS Core Technologies
-        Benefits of Cloud Computing
-        AWS Global Infrastructure
-        Core Technologies: Compute
-        Core Technologies: Storage
-        Core Technologies: Databases
-        Core Technologies: Networking
-        Core Technologies: Security
-    Module 3: From Services to Solutions
-        Introduction to Solution Design
-        Addressing Customer Challenges
-        Migration Strategies
-        Architectural Best Practices
-        Other Solution Design Resources
-        Proposed Solution
-    Module 4: Presenting AWS Solutions to Customers
-        Customer Meeting Best Practices
-        Delivering a Proof of Concept
-    Module 5: Looking Ahead
-        Planning the Migration
-        Modernization
-    Module 6: AWS Partner Network Resources
-        AWS Partner Network Resources
-    Module 7: Course Review
-        Course Conclusion
-        Accreditation Test
-        Course Completion
+- Module 1: Course Overview
+    * Course Overview
+- Module 2: Introduction to AWS Core Technologies
+    * Benefits of Cloud Computing
+    * AWS Global Infrastructure
+    * Core Technologies: Compute
+    * Core Technologies: Storage
+    * Core Technologies: Databases
+    * Core Technologies: Networking
+    * Core Technologies: Security
+- Module 3: From Services to Solutions
+    * Introduction to Solution Design
+    * Addressing Customer Challenges
+    * Migration Strategies
+    * Architectural Best Practices
+    * Other Solution Design Resources
+    * Proposed Solution
+- Module 4: Presenting AWS Solutions to Customers
+    * Customer Meeting Best Practices
+    * Delivering a Proof of Concept
+- Module 5: Looking Ahead
+    * Planning the Migration
+    * Modernization
+- Module 6: AWS Partner Network Resources
+    * AWS Partner Network Resources
+- Module 7: Course Review
+    * Course Conclusion
+    * Accreditation Test
+    * Course Completion
 
