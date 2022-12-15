@@ -23,9 +23,9 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     - Setting up Jenkins on ec2 Instance
     - Creating GitHub webhook to trigger deploys 
     - Using groovy scripts for testing and deployment
-    - Using .sh files to control the deploys over remote servers
+    - Using `.sh` files to control the deploys over remote servers
 6. Deploying environment specific applications
-    - Using maven to build and deploy java projects from .jar files
+    - Using maven to build and deploy java projects from `.jar` files
     - Integrating Apache Tomcat with Jenkins
 7. Containerization of Applications
     - Using Docker to deploy application
