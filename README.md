@@ -8,31 +8,30 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     - [Course Objectives](#course-objectives)
     - [Course Outline](#course-outline)
 2. [AWS Course - AWS Partner: Cloud Economics Accreditation](#aws-course---aws-partner-cloud-economics-accreditation)
-    - Course Objectives
-    - Course Outline
-3. AWS Course - AWS Partner: Sales Accreditation (Business)
-    - Course Objectives
-    - Course Outline
-4. Production Server Set-up on AWS
-    - Setting up an AWS account
-    - Setting up an ec2 Instance
-    - Setting up a security group
-    - Deploying a nodeJS application
-    - Using Nginx for reverse proxy
-5. Using DevOps tools in a production environment
-    - Setting up Jenkins on ec2 Instance
-    - Creating GitHub webhook to trigger deploys 
-    - Using groovy scripts for testing and deployment
-    - Using `.sh` files to control the deploys over remote servers
-6. Deploying environment specific applications
-    - Using maven to build and deploy java projects from `.jar` files
-    - Integrating Apache Tomcat with Jenkins
-7. Containerization of Applications
-    - Using Docker to deploy application
-    - Using Kuberneters to deploy application
+    - [Course Objectives](#course-objectives-1)
+    - [Course Outline](#course-outline-1)
+3. [AWS Course - AWS Partner: Sales Accreditation (Business)]()
+    - [Course Objectives](#course-objectives-2)
+    - [Course Outline](#course-outline-2)
+4. [Production Server Set-up on AWS]()
+    - [Setting up an AWS account]()
+    - [Setting up an ec2 Instance]()
+    - [Setting up a security group]()
+    - [Deploying a nodeJS application]()
+    - [Using Nginx for reverse proxy]()
+5. [Using DevOps tools in a production environment]()
+    - [Setting up Jenkins on ec2 Instance]()
+    - [Creating GitHub webhook to trigger deploys]() 
+    - [Using groovy scripts for testing and deployment]()
+    - [Using `.sh` files to control the deploys over remote servers]()
+6. [Deploying environment specific applications]()
+    - [Using maven to build and deploy java projects from `.jar` files]()
+    - [Integrating Apache Tomcat with Jenkins]()
+7. [Containerization of Applications]()
+    - [Using Docker to deploy application]()
+    - [Using Kuberneters to deploy application]()
 
 # AWS Course - AWS Partner: Accreditation (Technical)
-
 + ## <!-- Technical -->Course Objectives
     - Articulate the value of crucial Amazon Web Services (AWS) services and features
     - Apply AWS services toward customer solutions
@@ -41,7 +40,6 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     - Demonstrate the value of constructing proofs of concept (POCs)
     - Assemble an action plan for successful customer engagements
     - Identify AWS Partner Network (APN) resources for APN Partners
-
 + ## <!-- Technical -->Course Outline
     - Module 1: Course Overview
         * Course Overview
@@ -75,7 +73,6 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 
 # AWS Course - AWS Partner: Cloud Economics Accreditation
-
 + ## <!-- Cloud Economics -->Course Objectives
     - Explain the four pillars of the Cloud Value Framework and the framework’s partner value proposition
     - Explain why cost savings matters and show customers how they can lower their costs by migrating their workloads to AWS
@@ -85,7 +82,6 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     - Explain the key elements of cloud financial management
     - Explain four best practices of cost optimization
     - Use the Migration Portfolio Assessment (MPA) tool to show customers the cost savings and business value of migrating to the AWS Cloud
-
 + ## <!-- Technical --> Course Outline
     - Module 1: Introduction to Business Value
         * Cloud Value Framework
@@ -123,3 +119,42 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     - Module 8: Cost Savings with MPA
         * How to add and manipulate data with the MPA tool
         * Cost savings analyses with the MPA tool
+
+# AWS Course - AWS Partner: Sales Accreditation (Business)
++ ## <!-- Business -->Course Objectives
+    - Describe the benefits of cloud computing and why customers choose AWS
+    - Articulate the business value of the cloud, beyond cost savings
+    - Respond to common customer objections to cloud adoption
+    - Articulate best practices to co-sell with AWS sales teams
++ ## <!-- Business -->Course Outline
+    - Module 1: Course Welcome
+        * Overview and Welcome
+    - Module 2: Cloud Concepts and AWS Services
+        * Cloud Computing
+        * Why Customers Choose AWS
+        * Introduction to AWS Services 
+        * Facilitating Digital Transformation
+    - Module 3: Business Value
+        * Business Value & Benchmarking
+        * AWS Cloud Value Framework: Cost Saving
+        * AWS Cloud Value Framework: Staff Productivity
+        * AWS Cloud Value Framework: Operational Resilience
+        * AWS Cloud Value Framework: Business Agility
+    - Module 4: Cloud Objection Handling
+        * Cloud Objections
+        * Cost
+        * Security, Compliance, and Privacy
+        * Loss of control or visibility
+        * Existing infrastructure
+        * Skills gap
+        * Vendor lock-in
+        * Sustainability
+        * Module Resources
+    - Module 5: Co-selling with AWS
+        * Co-selling Fundamentals
+        * Working with AWS 
+        * Best Practices 
+        * AWS Partner Funding Programs
+        * Module Resources
+    - Module 6: Course Wrap-Up
+        * Course Summary
