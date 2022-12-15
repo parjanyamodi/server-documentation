@@ -199,4 +199,4 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     pm2 start index.js --name <name-of-the-app>
     ```
 
-    <sup>_Note:- Refer to the official [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/) for more information.
+    <sup>_Note:- Refer to the official [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/) for more information._</sup>
