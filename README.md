@@ -33,7 +33,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 # AWS Course - AWS Partner: Accreditation (Technical)
 
-## Course Objectives
+## <!-- Technical -->Course Objectives
 - Articulate the value of crucial Amazon Web Services (AWS) services and features
 - Apply AWS services toward customer solutions
 - Adopt AWS architectural and cost optimization best practices
@@ -42,7 +42,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 - Assemble an action plan for successful customer engagements
 - Identify AWS Partner Network (APN) resources for APN Partners
 
-## Course Outline
+## <!-- Technical -->Course Outline
 
 - Module 1: Course Overview
     * Course Overview
@@ -77,7 +77,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 # AWS Course - AWS Partner: Cloud Economics Accreditation
 
-## Course Objectives
+## <!-- Cloud Economics -->Course Objectives
 - Explain the four pillars of the Cloud Value Framework and the framework’s partner value proposition
 - Explain why cost savings matters and show customers how they can lower their costs by migrating their workloads to AWS
 - Calculate and differentiate customers’ staff productivity as strategic versus tactical by migrating to AWS
@@ -86,3 +86,41 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 - Explain the key elements of cloud financial management
 - Explain four best practices of cost optimization
 - Use the Migration Portfolio Assessment (MPA) tool to show customers the cost savings and business value of migrating to the AWS Cloud
+
+## <!-- Technical --> Course Outline
+- Module 1: Introduction to Business Value
+    * Cloud Value Framework
+    * Cost savings
+    * Staff Productivity
+    * Operational resilience
+    * Business agility
+- Module 2: Cost Savings Basics
+    * Why cost savings matters
+    * Lowering costs with AWS
+    * Customer migration challenges
+- Module 3: Staff Productivity
+    * Quantifying the impact AWS has on staff productivity versus traditional IT
+    * Customer examples
+- Module 4: Operational Resilience
+    * Four key areas of operational resilience
+    * Benefits of improved operational resilience
+    * Causes and effects of downtime
+    * How AWS mitigates operational failures
+    * Customer examples
+- Module 5: Business Agility
+    * Key performance indicators to measure business agility
+    * How increased business agility allows for innovation and decreased risks and costs
+    * Customer examples
+- Module 6: Cloud Financial Management
+    * Four key areas of cloud financial management
+    * Measurement and accountability
+    * Cost optimization
+    * Planning and forecasting
+    * Cloud financial operations
+- Module 7: Introduction to Migration Portfolio Assessment (MPA)
+    * Who should use the MPA tool
+    * When and how to use the MPA tool
+    * How to access the MPA tool
+- Module 8: Cost Savings with MPA
+    * How to add and manipulate data with the MPA tool
+    * Cost savings analyses with the MPA tool
