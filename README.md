@@ -13,11 +13,10 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 3. [AWS Course - AWS Partner: Sales Accreditation (Business)]()
     - [Course Objectives](#course-objectives-2)
     - [Course Outline](#course-outline-2)
-4. [Production Server Set-up on AWS]()
-    - [Setting up an AWS account]()
-    - [Setting up an ec2 Instance]()
-    - [Deploying a nodeJS application]()
-    - [Using Nginx for reverse proxy]()
+4. [Production Server Set-up on AWS](#production-server-set-up-on-aws)
+    - [Setting up an AWS account and ec2 Instance](#setting-up-an-aws-account)
+    - [Deploying a nodeJS application](#deploying-nodejs-application)
+    - [Using Nginx for reverse proxy](#using-nginx-for-reverse-proxy)
 5. [Using DevOps tools in a production environment]()
     - [Setting up Jenkins on ec2 Instance]()
     - [Creating GitHub webhook to trigger deploys]() 
@@ -200,8 +199,8 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ```
 
     <sup>_Note:- Refer to the official [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/) for more information._</sup>
-
-    5. Install and set-up `nginx` on the instance
++ ## Using `nginx` for reverse proxy
+    1. Install and set-up `nginx` on the instance
     ```
     sudo apt update
     sudo apt install nginx
