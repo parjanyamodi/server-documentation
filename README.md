@@ -7,7 +7,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 1. [AWS Coure - AWS Partner: Accreditation (Technical)](#aws-course---aws-partner-accreditation-technical)
     - [Course Objectives](#course-objectives)
     - [Course Outline](#course-outline)
-2. AWS Course - AWS Partner: Cloud Economics Accreditation
+2. [AWS Course - AWS Partner: Cloud Economics Accreditation](#aws-course---aws-partner-cloud-economics-accreditation)
     - Course Objectives
     - Course Outline
 3. AWS Course - AWS Partner: Sales Accreditation (Business)
@@ -74,3 +74,15 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     * Accreditation Test
     * Course Completion
 
+
+# AWS Course - AWS Partner: Cloud Economics Accreditation
+
+## Course Objectives
+- Explain the four pillars of the Cloud Value Framework and the framework’s partner value proposition
+- Explain why cost savings matters and show customers how they can lower their costs by migrating their workloads to AWS
+- Calculate and differentiate customers’ staff productivity as strategic versus tactical by migrating to AWS
+- Present components of operational resilience in the context of IT
+- Define business agility and how it allows businesses to innovate
+- Explain the key elements of cloud financial management
+- Explain four best practices of cost optimization
+- Use the Migration Portfolio Assessment (MPA) tool to show customers the cost savings and business value of migrating to the AWS Cloud
