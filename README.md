@@ -5,13 +5,13 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 ## Table of Contents
 
 1. AWS Coure - AWS Partner: Accreditation (Technical)
-    - Coursee Objectives
+    - Course Objectives
     - Course Outline
 2. AWS Course - AWS Partner: Cloud Economics Accreditation
-    - Coursee Objectives
+    - Course Objectives
     - Course Outline
 3. AWS Course - AWS Partner: Sales Accreditation (Business)
-    - Coursee Objectives
+    - Course Objectives
     - Course Outline
 4. Production Server Set-up on AWS
     - Setting up an AWS account
