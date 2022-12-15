@@ -177,3 +177,17 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     9. Once connected to the server the terminal may look something like this.
     ![Alt text](./images/aws-account/6.png)
 + ## Deploying `nodeJS` application
+    1. To deploy a nodeJS application on the ec2 instance we need to have the latest version of node runtime installed on the instance.
+    2. Installing `nodeJS` with `apt` using `NodeSource PPA`:-
+    ```
+    sudo apt update
+    cd ~
+    curl -sL https://deb.nodesource.com/setup_19.x -o /tmp/nodesource_setup.sh
+    sudo bash /tmp/nodesource_setup.sh
+    sudo apt install nodejs
+    ```
+    Refer to the [NodeSource documentation](https://github.com/nodesource/distributions/blob/master/README.md) for more information on the available versions.
+    You can check the installed version using this command
+    ```
+    node -v
+    ```
