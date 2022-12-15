@@ -173,7 +173,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ![Alt text](./images/aws-account/4.png)
     8. Copy the ssh command displayed and use it in the terminal or any ssh client software.
     ![Alt text](./images/aws-account/5.png)
-    The .pem certificate was regenerated during the configuration of the instance.
+    *Note:- The .pem certificate was regenerated during the configuration of the instance.*
     9. Once connected to the server the terminal may look something like this.
     ![Alt text](./images/aws-account/6.png)
 + ## Deploying `nodeJS` application
