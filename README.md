@@ -229,3 +229,21 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     sudo nginx -t
     sudo systemctl reload nginx
     ```
+
+# DevOps tools in production environment
+
++ ## Setting up Jenkins on ec2 Instance
+
+    <sup>_Note:- Jenkins use JRE as it is developed in Java. Thus, it uses JVM and needs high memory in order to run. Using less memory may lead to server going deaf. It is preffered to have a seperate small scale server that handles CI/CD and the methodology described below aligns the same architecture_</sup>
+    1. Install Jenkins on your CI/CD server.
+    ```
+    curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo tee \ /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+    echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \ https://pkg.jenkins.io/debian-stable binary/ | sudo tee \ /etc/apt/sources.list.d/jenkins.list > /dev/null
+    sudo apt-get update
+    sudo apt-get install jenkins
+    sudo apt update
+    sudo apt install openjdk-11-jre
+    java -version
+    2. Visit [http://serverip:8080/](http://serverip:8080/).
+    
+
