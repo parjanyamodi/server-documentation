@@ -200,3 +200,32 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ```
 
     <sup>_Note:- Refer to the official [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/) for more information._</sup>
+
+    5. Install and set-up `nginx` on the instance
+    ```
+    sudo apt update
+    sudo apt install nginx
+    sudo ufw app list
+    sudo ufw allow 'Nginx Full'
+    sudo ufw status
+    sudo systemctl status nginx
+    sudo vi /etc/nginx/sites-enabled/yourdomain.com
+    ```
+    Use following tool to get a template for nginx configurationg file [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx). 
+    ```
+    server {
+        listen 80;
+        listen [::]:80;
+        server_name yourdomain.tld;
+
+        location / {
+            proxy_pass http://localhost:PORT;
+        }
+    }
+    ```
+    Above mentioned should be the format of the nginx configuration. More attributes maybe added.
+    Test the configuration using following commands.
+    ```
+    sudo nginx -t
+    sudo systemctl restart nginx
+    ```
