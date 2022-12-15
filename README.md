@@ -167,7 +167,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     3. Deploy a new ec2 instance and apply use-case-specific configuration in the portal.
     ![Alt text](./images/aws-account/2.png)
     4. Configure the network, security group, storage and server credentails.
-    5. Click on the `Launch Instance button in `orange` color in order to launch the instance with required configuration.
+    5. Click on the `Launch Instance` button in `orange` color in order to launch the instance with required configuration.
     6. Go to the list of instances available in the AWS account and select the particular instance that you want to connect to.
     ![Alt text](./images/aws-account/3.png)
     7. Click on the connect button at the top of the instance details.
