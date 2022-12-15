@@ -188,7 +188,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ```
     <sup>_Note:- Refer to the [NodeSource documentation](https://github.com/nodesource/distributions/blob/master/README.md) for more information on the available versions._</sup>
     
-    3. You can check the installed version using this command
+    3. You can check the installed version of `nodeJS` using this command
     ```
     node -v
     ```
