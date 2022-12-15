@@ -33,7 +33,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 # AWS Course - AWS Partner: Accreditation (Technical)
 
-## <!-- Technical -->Course Objectives
++ ## <!-- Technical -->Course Objectives
 - Articulate the value of crucial Amazon Web Services (AWS) services and features
 - Apply AWS services toward customer solutions
 - Adopt AWS architectural and cost optimization best practices
@@ -42,7 +42,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 - Assemble an action plan for successful customer engagements
 - Identify AWS Partner Network (APN) resources for APN Partners
 
-## <!-- Technical -->Course Outline
++ ## <!-- Technical -->Course Outline
 
 - Module 1: Course Overview
     * Course Overview
@@ -77,7 +77,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 
 # AWS Course - AWS Partner: Cloud Economics Accreditation
 
-## <!-- Cloud Economics -->Course Objectives
++ ## <!-- Cloud Economics -->Course Objectives
 - Explain the four pillars of the Cloud Value Framework and the framework’s partner value proposition
 - Explain why cost savings matters and show customers how they can lower their costs by migrating their workloads to AWS
 - Calculate and differentiate customers’ staff productivity as strategic versus tactical by migrating to AWS
@@ -87,7 +87,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
 - Explain four best practices of cost optimization
 - Use the Migration Portfolio Assessment (MPA) tool to show customers the cost savings and business value of migrating to the AWS Cloud
 
-## <!-- Technical --> Course Outline
++ ## <!-- Technical --> Course Outline
 - Module 1: Introduction to Business Value
     * Cloud Value Framework
     * Cost savings
