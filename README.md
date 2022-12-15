@@ -246,5 +246,7 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     java -version
     ```
     2. Visit [http://serverip:8080/](http://serverip:8080/).
+    3. Set an administrator password as shown below and continue.
+    ![Alt text](./images/jenkins/1.png)
 
 
