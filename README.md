@@ -192,3 +192,11 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     ```
     node -v
     ```
+
+    4. Install and set-up `pm2` process manager to deploy nodejs application
+    ```
+    npm install pm2@latest -g
+    pm2 start index.js --name <name-of-the-app>
+    ```
+
+    <sup>_Note:- Refer to the official [PM2 Documentation](https://pm2.keymetrics.io/docs/usage/quick-start/) for more information.
