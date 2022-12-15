@@ -227,5 +227,5 @@ Author: [Parjanya Modi](https://parjanyamodi.com)
     Test the configuration using following commands.
     ```
     sudo nginx -t
-    sudo systemctl restart nginx
+    sudo systemctl reload nginx
     ```
